@@ -13,14 +13,14 @@
 
 <br>
 
-- Un apasionado desarrollador frontend autodidacta.
+- Un apasionado desarrollador frontend.
 - Estudiante en Universidad Católica de Santa María.
 - En constante aprendizaje de desarrollo web.
 - Actualmente buscando mejorar mis habilidades y abierto a nuevas oportunidades.
 - ¡Mira mis proyectos aquí!
 
 <br><br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Habilidades</b>
 </p>
