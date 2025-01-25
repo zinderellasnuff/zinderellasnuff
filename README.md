@@ -15,6 +15,7 @@
 
 - Un apasionado desarrollador frontend.
 - Estudiante en Universidad Católica de Santa María.
+- Actualmente me encuentro estudiando el bootcamp de TripleTen en desarrollo web FullStack.
 - En constante aprendizaje de desarrollo web.
 - Actualmente buscando mejorar mis habilidades y abierto a nuevas oportunidades.
 - ¡Mira mis proyectos aquí!
